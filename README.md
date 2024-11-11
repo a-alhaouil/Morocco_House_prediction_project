@@ -6,9 +6,9 @@ This project is a house price prediction application that estimates property pri
 - **Location-Specific Predictions:** Adjusts predictions based on specific cities or regions in Morocco, thanks to one-hot encoding of location data.
 - **User-Friendly Web Interface:** Built with the Flask framework, the application provides a simple web interface for users to input data and view predictions.
 ## Technologies Used
-- Machine Learning: The model was trained with key features from the Moroccan housing dataset.
-- Flask: Used to create the web API and interface for the prediction system.
-- JSON & Pickle: For saving and loading model artifacts and data columns.
+- **Machine Learning:** The model was trained with key features from the Moroccan housing dataset.
+- **Flask:** Used to create the web API and interface for the prediction system.
+- **JSON & Pickle:** For saving and loading model artifacts and data columns.
 ## How to Run
 ### 1- run server :
 ..\..\saab_project> cd server
