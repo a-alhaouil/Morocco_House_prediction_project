@@ -12,7 +12,7 @@ done...
 
 ## if you want to change the dataset to train the model or create your model:
 
-1- run jupyter notebook server 
+1- run jupyter notebook server
 2- open the file "saab_predictor.ipynb"
 3- follow step of cleaning your dataset, i use the dataset named "DataPOO.csv", you can change it ase your
 4- after finishing cleaning your dataset, you can plot it, so you can visulate it.
@@ -20,3 +20,7 @@ done...
 5- you can after that choose which model is the best for you and use it 
 7- ceate your model with pickle
 8- and finally you have to exporting the dataset columns to a json file 
+
+## Web interface by flask framework
+
+![Capture d'écran 2024-11-12 001840](https://github.com/user-attachments/assets/37367fd1-8955-43ed-b645-9d8e82469818)
